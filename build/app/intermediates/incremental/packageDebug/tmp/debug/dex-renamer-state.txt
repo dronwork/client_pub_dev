@@ -1,0 +1,4 @@
+#Thu Oct 08 18:47:51 MSK 2020
+base.0=C\:\\Users\\dronw\\Downloads\\TMP\\client_pub_dev-master\\client_pub_dev-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
